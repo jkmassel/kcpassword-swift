@@ -1,5 +1,7 @@
 # kcpassword
 
+[![Swift](https://github.com/jkmassel/kcpassword-swift/actions/workflows/swift.yml/badge.svg)](https://github.com/jkmassel/kcpassword-swift/actions/workflows/swift.yml)
+
 A Swift implementation of the kcpassword encryption used for automatic user login.
 
 ## Usage
